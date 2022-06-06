@@ -1,6 +1,6 @@
 # Computer Vision Interview Resources
 
-A collection of useful resources for Computer Vision interviews.
+A collection of useful resources for Computer Vision interviews.  This is a work in progress, so please be forgiving with the current formatting :)
 
 ## Questions And Answers:
 
